@@ -1,0 +1,12 @@
+@charset "utf-8";
+/* CSS Document */
+
+h2{color:cadetblue}
+	#main_section{
+		color:cadetblue
+	}
+	.p1{
+		font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif"
+	}
+	.p2{ font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif"}
+	.p3{font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif" }
