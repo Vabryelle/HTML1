@@ -10,3 +10,14 @@ h2{color:cadetblue}
 	}
 	.p2{ font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif"}
 	.p3{font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif" }
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+h1 {text-align: center;}
+h2{text-align: center;} 
+h3 {text-align: center;} 
+h3 {color:cadetblue} 
+h4{text-align: center;}
+h4 {color:cadetblue}
